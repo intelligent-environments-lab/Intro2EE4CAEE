@@ -18,9 +18,9 @@ Say what the step will be
 
 ### Module 3 - Introduction to Programming
 
-'''
-you_ready_to_code?
-'''
+```
+You ready to code?
+```
 
 This segment will walk you through a number of different essential processes for building any program. After working through this module, you'll be able to control and interact with your Arduino in a much more comfortable way, with the ability to do some data processing.
 
