@@ -14,7 +14,6 @@ This module will give you a basic understanding of some of the common electrical
 ### Module 2 - Introduction to Arduino
 
 This module contains everything you need to get up and going with Arduino, the funny little computer that plays well with a lot of sensors and motors. There's also a really strong Arduino community online, which I would highly recommend if you get stuck or want to learn more. 
-Say what the step will be
 
 ### Module 3 - Introduction to Programming
 
